@@ -64,5 +64,11 @@ const Slpee = (function(){
 
     //test
 
+    function __slpee (){
+
+    }
+
+    return __slpee;
+
 })()
 
